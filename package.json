@@ -1,0 +1,39 @@
+{
+  "name": "typescript-mastery",
+  "version": "1.0.0",
+  "description": "A structured TypeScript learning journey — from beginner to production-ready, covering frontend (React) and backend (Node.js/Express) development.",
+  "author": "Waqas KHan <waqaskhan0589@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Waqas-Khan-CodeCanvas/typescript-engineering.git"
+  },
+  "keywords": [
+    "typescript", "learning", "mern", "react",
+    "nodejs", "express", "beginner", "intermediate", "advanced"
+  ],
+  "scripts": {
+    "dev": "tsx watch",
+    "build": "tsc --project tsconfig.json",
+    "typecheck": "tsc --noEmit",
+    "typecheck:strict": "tsc --noEmit --project tsconfig.strict.json",
+    "lint": "eslint \"src/**/*.ts\" --fix",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "run:file": "tsx",
+    "clean": "rimraf dist"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@typescript-eslint/eslint-plugin": "^7.0.0",
+    "@typescript-eslint/parser": "^7.0.0",
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.0",
+    "rimraf": "^5.0.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.0"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
