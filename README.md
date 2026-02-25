@@ -16,7 +16,7 @@
 
 *Built with 💙 by a MERN developer, for MERN developers — and every developer who wants to write safer, smarter code.*
 
-[📖 Get Started](#-getting-started) • [🗺️ Roadmap](#%EF%B8%8F-learning-roadmap) • [🤝 Contribute](#-contributing)
+[📖 Get Started](#-getting-started) • [🗺️ Roadmap](ROADMAP.md) • [📁 Folder structure](FOLDER_STRUCTURE.md) • [🤝 Contribute](#-contributing)
 
 </div>
 
