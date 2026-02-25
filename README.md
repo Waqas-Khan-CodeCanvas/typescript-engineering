@@ -50,13 +50,13 @@ TypeScript
 │
 └── 🖥️  BACKEND — Node.js + Express + TypeScript
 ```
-### Checkout Complete TypeScript Roadmap - [ROADMAP.md](ROADMAP.md)
+##### Checkout Complete TypeScript Roadmap - [ROADMAP.md](ROADMAP.md)
 
 ---
 
 ## 📁 Project Structure
 
-### Checkout Complete TypeScript Folder structer - [FOLDER_STRUCTURE.md](FOLDER_STRUCTURE.md)
+##### Checkout Complete TypeScript Folder structer - [FOLDER_STRUCTURE.md](FOLDER_STRUCTURE.md)
 ---
 
 ## 🚀 Getting Started
