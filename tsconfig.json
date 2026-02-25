@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    /* ── Language & Environment ── */
+    "target": "ES2022",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+
+    /* ── Emit ── */
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "removeComments": false,
+
+    /* ── Type Checking ── */
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "exactOptionalPropertyTypes": false,
+
+    /* ── Module Interop ── */
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+
+    /* ── Experimental ── */
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+
+    /* ── Skip lib check ── */
+    "skipLibCheck": true,
+
+    /* ── Path Aliases ── */
+    "baseUrl": ".",
+    "paths": {
+      "@beginner/*": ["src/01-beginner/*"],
+      "@intermediate/*": ["src/02-intermediate/*"],
+      "@advanced/*": ["src/03-advanced/*"],
+      "@frontend/*": ["src/04-frontend/*"],
+      "@backend/*": ["src/05-backend/*"]
+    }
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "dist", "**/*.test.ts"]
+}
