@@ -36,138 +36,27 @@ This repo is my **public learning journal and structured reference guide** desig
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🗺️ Learning Roadmap 
 ```
-TypeScript Mastery
+TypeScript
 │
 ├── 🟢 BEGINNER
-│   ├── 01 — Types & Variables
-│   ├── 02 — Functions
-│   ├── 03 — Arrays & Tuples
-│   ├── 04 — Objects & Interfaces
-│   ├── 05 — Type Assertions
-│   ├── 06 — Enums
-│   └── 07 — Union & Intersection Types
 │
 ├── 🟡 INTERMEDIATE
-│   ├── 01 — Generics
-│   ├── 02 — Utility Types
-│   ├── 03 — Decorators
-│   ├── 04 — Modules & Namespaces
-│   ├── 05 — Error Handling
-│   ├── 06 — Type Guards
-│   ├── 07 — Mapped Types
-│   └── 08 — Conditional Types
-│
+│   
 ├── 🔴 ADVANCED
-│   ├── 01 — Advanced Generics
-│   ├── 02 — Template Literal Types
-│   ├── 03 — The Infer Keyword
-│   ├── 04 — Recursive Types
-│   ├── 05 — Declaration Files (.d.ts)
-│   └── 06 — Performance Optimization
 │
 ├── ⚛️  FRONTEND — React + TypeScript
-│   ├── 01 — React with TypeScript
-│   ├── 02 — Hooks Typing
-│   ├── 03 — Context API
-│   ├── 04 — Redux Toolkit
-│   ├── 05 — Form Handling (React Hook Form + Zod)
-│   └── 06 — API Calls (Axios + typed responses)
 │
 └── 🖥️  BACKEND — Node.js + Express + TypeScript
-    ├── 01 — Node.js + Express Setup
-    ├── 02 — RESTful API
-    ├── 03 — Database Integration (Prisma / Mongoose)
-    ├── 04 — Authentication (JWT)
-    ├── 05 — Middleware
-    └── 06 — Validation (Zod)
 ```
+### Checkout Complete TypeScript Roadmap - [ROADMAP.md](ROADMAP.md)
 
 ---
 
 ## 📁 Project Structure
-```
-typescript-mastery/
-│
-├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   │   ├── bug_report.md
-│   │   └── feature_request.md
-│   └── workflows/
-│       └── ci.yml
-│
-├── src/
-│   ├── 01-beginner/
-│   │   ├── 01-types-and-variables/
-│   │   │   ├── index.ts
-│   │   │   └── README.md
-│   │   ├── 02-functions/
-│   │   ├── 03-arrays-and-tuples/
-│   │   ├── 04-objects-and-interfaces/
-│   │   ├── 05-type-assertions/
-│   │   ├── 06-enums/
-│   │   └── 07-union-and-intersection/
-│   │
-│   ├── 02-intermediate/
-│   │   ├── 01-generics/
-│   │   ├── 02-utility-types/
-│   │   ├── 03-decorators/
-│   │   ├── 04-modules-and-namespaces/
-│   │   ├── 05-error-handling/
-│   │   ├── 06-type-guards/
-│   │   ├── 07-mapped-types/
-│   │   └── 08-conditional-types/
-│   │
-│   ├── 03-advanced/
-│   │   ├── 01-advanced-generics/
-│   │   ├── 02-template-literal-types/
-│   │   ├── 03-infer-keyword/
-│   │   ├── 04-recursive-types/
-│   │   ├── 05-declaration-files/
-│   │   └── 06-performance-optimization/
-│   │
-│   ├── 04-frontend/
-│   │   ├── 01-react-with-typescript/
-│   │   ├── 02-hooks-typing/
-│   │   ├── 03-context-api/
-│   │   ├── 04-redux-toolkit/
-│   │   ├── 05-form-handling/
-│   │   └── 06-api-calls/
-│   │
-│   └── 05-backend/
-│       ├── 01-nodejs-express/
-│       ├── 02-restful-api/
-│       ├── 03-database-integration/
-│       ├── 04-authentication/
-│       ├── 05-middleware/
-│       └── 06-validation/
-│
-├── exercises/
-│   ├── beginner/
-│   ├── intermediate/
-│   └── advanced/
-│
-├── projects/
-│   ├── frontend/
-│   ├── backend/
-│   └── fullstack/
-│
-├── resources/
-│   └── cheatsheet.md
-│
-├── .eslintrc.json
-├── .gitignore
-├── .prettierrc
-├── tsconfig.json
-├── tsconfig.strict.json
-├── package.json
-├── CONTRIBUTING.md
-├── CHANGELOG.md
-├── LICENSE
-└── README.md
-```
 
+### Checkout Complete TypeScript Folder structer - [FOLDER_STRUCTURE.md](FOLDER_STRUCTURE.md)
 ---
 
 ## 🚀 Getting Started
