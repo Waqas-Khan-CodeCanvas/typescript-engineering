@@ -123,8 +123,8 @@ Every topic folder follows this consistent pattern:
 | [Type Challenges](https://github.com/type-challenges/type-challenges) | Practice | Intermediate–Advanced |
 | [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) | Free Book | All |
 | [Matt Pocock on YouTube](https://www.youtube.com/@mattpocockuk) | Videos | All |
-| [tutorialspoint](https://www.tutorialspoint.com/typescript/index.htm) | Videos | All |
-| [typescripttutorial](https://www.typescripttutorial.net/) | Videos | All |
+| [tutorialspoint](https://www.tutorialspoint.com/typescript/index.htm) | Docs | All beginner friendly |
+| [typescripttutorial](https://www.typescripttutorial.net/) | Docs | All beginner friendly |
 
 ---
 
